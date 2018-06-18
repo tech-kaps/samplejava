@@ -1,4 +1,4 @@
-A simple Java EE 7 Sample - For using Jenkins
+A simple Java EE 7 Sample - For using Jenkins - ci/cd
 =========================
 
 This is a trivial Java EE 7 sample.
