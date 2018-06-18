@@ -1,4 +1,4 @@
-A simple Java EE 7 Sample
+A simple Java EE 7 Sample - For using Jenkins
 =========================
 
 This is a trivial Java EE 7 sample.
